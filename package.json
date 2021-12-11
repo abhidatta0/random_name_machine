@@ -1,0 +1,7 @@
+{
+    "name": "@abhirupdatta/random_name",
+    "version": "3.0.0",
+    "description": "Returns random name(s)",
+    "license": "MIT",
+    "main": "index.js"
+}
