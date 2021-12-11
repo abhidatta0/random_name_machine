@@ -14,7 +14,5 @@ function listOfRandomNames(length = 0){
     return list;
 }
 
-singleRandomName();
-console.log(listOfRandomNames(5));
-
 exports.singleRandomName = singleRandomName;
+exports.listOfRandomNames = listOfRandomNames;
